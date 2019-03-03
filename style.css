@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    color: rgba(236, 88, 89, 0.56);
+    font-weight: 600;
+    background-color: #101010;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 40px;
+
+}
+.title-super{
+    font-size: larger;
+    margin-top: 20px;
+
+
+}
+.title-logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#header{
+    background-color: antiquewhite;
+    margin-right: 7px;
+    margin-left: 7px;
+
+}
+#rule{
+    margin-right: 20px;
+}
