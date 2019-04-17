@@ -58,11 +58,11 @@
             <p>mail or follow patrick bahitya on</p>
             <ul >
                 <li><a href="http://gmail.com">patrickbahitya10@gmail.com</a></li>
-                <li><a href="https://github.com/patrickbahitya">github</a></li>
-                <li><a href="https://www.sourcecodester.com/users/bahitya-patrick">sourcecodester</a></li>
-                <li><a href="https://www.facebook.com/profile.php?id=100005005633786">facebook</a></li>
-                <li><a href="https://twitter.com/BahityaP">twitter</a></li>
-                <li><a href="https://https://https://www.linkedin.com/in/patrick-bahitya-007665110/">linkedin</a></li>
+                <li><a href="https://github.com">github</a></li>
+                <li><a href="https://www.sourcecodester.com">sourcecodester</a></li>
+                <li><a href="https://www.facebook.com">facebook</a></li>
+                <li><a href="https://twitter.com">twitter</a></li>
+                <li><a href="https://https://https://www.linkedin.com">linkedin</a></li>
                 <li><a href="http://instangram">instagram</a></li>
 
             </ul>
