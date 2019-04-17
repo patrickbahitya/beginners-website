@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-md-6  text-uppercase text-right" >
-            <h2 class="title-super">Emmanuel MASEREKA</h2>
+            <h2 class="title-super">Emmanuel</h2>
 
 
             <h4>ENTREPRENEUR</h4>
