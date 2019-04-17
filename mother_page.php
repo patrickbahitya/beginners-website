@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-md-6  text-uppercase text-right" >
-            <h2 class="title-super">GRACE KAJUMBA</h2>
+            <h2 class="title-super">GRACE</h2>
 
 
             <h4>ENTREPRENEUR</h4>
